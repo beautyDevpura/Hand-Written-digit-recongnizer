@@ -43,6 +43,10 @@ if canvas_result.image_data is not None:
         digit_pred = model.predict(input_image)
         st.title(digit_pred[0])
 
-
+        
+ #resources: https://discuss.streamlit.io/t/drawable-canvas/3671/8 
+#https://stackoverflow.com/questions/66372402/conversion-of-dimension-of-streamlit-canvas-image
+#https://stackoverflow.com/questions/384759/how-to-convert-a-pil-image-into-a-numpy-array/384926#384926
+#https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead
 
 
