@@ -3,10 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LogisticRegression
-import pickle
-
 from sklearn.datasets import fetch_openml
+
+
 mnist = fetch_openml('mnist_784')
 
 X_train, X_test, y_train, y_test = train_test_split(mnist.data, mnist.target,
