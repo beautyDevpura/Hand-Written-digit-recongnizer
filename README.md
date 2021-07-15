@@ -44,5 +44,6 @@ And last predict button will predic the digit drawn in Canvas.
 ![Screen Shot 2021-07-15 at 2 26 50 PM](https://user-images.githubusercontent.com/82862957/125860271-bec9e8ca-3d81-4996-88ce-5afc6a581651.png)
 
 Streamlit Canvas on local host 
+
 Link of Drawable Canvas and model predicting Digit from 0-9
 https://github.com/beautyDevpura/Hand-Written-digit-recongnizer/blob/main/StreamlitCanvas_Draw_predict.webm
