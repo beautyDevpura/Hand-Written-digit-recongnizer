@@ -70,4 +70,7 @@ plt.title(y_train.iloc[50000], fontsize=15);
 
 plt.show()
 
+#resources:
+#https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/,
+#https://www.kaggle.com/satishgunjal/multiclass-logistic-regression-using-sklearn
 
