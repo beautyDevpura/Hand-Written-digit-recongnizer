@@ -24,3 +24,4 @@ print(KNN.score(X_test, y_test))
 
 pickle.dump(KNN, open('model.pkl', 'wb'))
 
+#Resources: https://github.com/nachi-hebbar/Streamlit-ML-Web-App/commit/fe202431b8d78211e7dd2022a62ffeaef49c60ed
